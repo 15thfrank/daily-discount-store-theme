@@ -1,0 +1,6 @@
+development:
+   theme_id: 79129542728
+   password: <<deleted>>
+   store: the-daily-discount-store.myshopify.com
+   bucket_size: 40
+   refill_rate: 2
